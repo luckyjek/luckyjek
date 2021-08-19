@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/Javascript-#F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<a href="https://twitter.com/luckyjek" rel="nofollow">
+  <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" style="max-width:100%;">
+</a>
