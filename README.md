@@ -5,9 +5,7 @@
   I live on Inchon, Korea  
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor"></a>
-</p>
+
 
 <p align="center">
   <a href="https://twitter.com/luckyjek" rel="nofollow"><img 
